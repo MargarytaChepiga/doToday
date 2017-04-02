@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">doToday</string>
+    <string name="add_task_button">Add Task</string>
+</resources>

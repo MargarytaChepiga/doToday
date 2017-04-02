@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "184857751862",
+    "firebase_url": "https://dotoday-e0c63.firebaseio.com",
+    "project_id": "dotoday-e0c63",
+    "storage_bucket": "dotoday-e0c63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184857751862:android:1463b29a2c55d859",
+        "android_client_info": {
+          "package_name": "com.example.doToday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184857751862-t7af0iva2jqfsrbdflv8v95p2g4j4cbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRW5sGc_lThIQiBJhpHheVhuW-OP2JM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184857751862:android:ccdb801e046afd98",
+        "android_client_info": {
+          "package_name": "com.example.dotoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184857751862-t7af0iva2jqfsrbdflv8v95p2g4j4cbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRW5sGc_lThIQiBJhpHheVhuW-OP2JM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
